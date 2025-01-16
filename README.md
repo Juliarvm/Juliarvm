@@ -10,11 +10,11 @@ I'm passionate about technology and innovation, always eager to learn, grow, and
 <br> 
 
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juliarvm&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juliarvm&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juliarvm&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juliarvm&theme=dracula)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juliarvm&theme=dracula&utcOffset=8)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juliarvm&theme=tokyo-night)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juliarvm&theme=tokyo-night)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Juliarvm&theme=tokyo-night)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juliarvm&theme=tokyo-night)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Juliarvm&theme=tokyo-nighta&utcOffset=8)
 
 
 
